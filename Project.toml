@@ -1,0 +1,7 @@
+name = "FranklinPluginExample"
+uuid = "b42f3f40-9bb8-42d3-ad0a-07e1b8868e6e"
+authors = ["tlienart <tlienart@me.com>"]
+version = "0.1.0"
+
+[deps]
+FranklinUtils = "dcd8a645-c81d-482f-af4b-568f72f3e16d"
