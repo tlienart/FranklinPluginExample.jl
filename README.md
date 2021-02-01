@@ -12,4 +12,6 @@ using FranklinPluginExample
 
 ```
 \box{text="foo", background_color="cornflowerblue", border_radius="10px", padding_top="1em", padding_bottom="1em"}
+
+\bar{ABC}{DEF}
 ```
